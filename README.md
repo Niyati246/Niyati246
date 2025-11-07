@@ -1,3 +1,5 @@
+![Banner](assets/banner.jpg)
+
 ### Hi, I'm Niyati :)
 
 👩🏻‍💻 Electrical Engineering Student @ University of Waterloo <br>

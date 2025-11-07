@@ -7,4 +7,4 @@
 ⚙️ Interested in automotive and controls engineering! <br>
 
 ### Connect with me! <br>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyati-sharma-2519a3289/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyati-sharma-2519a3289/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyatisharma246@gmail.com)
